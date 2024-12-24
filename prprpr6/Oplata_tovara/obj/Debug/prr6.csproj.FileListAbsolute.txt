@@ -1,0 +1,10 @@
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\bin\Debug\Oplata_tovara.exe.config
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\bin\Debug\Oplata_tovara.exe
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\bin\Debug\Oplata_tovara.pdb
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\prr6.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\Oplata_tovara.Form1.resources
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\Oplata_tovara.Properties.Resources.resources
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\prr6.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\prr6.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\Oplata_tovara.exe
+C:\Users\Игорь\Desktop\prprpr6\Oplata_tovara\obj\Debug\Oplata_tovara.pdb
