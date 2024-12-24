@@ -1,0 +1,12 @@
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\STUDENT\Desktop\ \квадроберы\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.blank.resources
